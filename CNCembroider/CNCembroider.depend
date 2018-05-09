@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1511359994 source:c:\users\user\desktop\dev\cnc\cncembroider\rs232.c
+	"rs232.h"
+
+1501918064 c:\users\user\desktop\dev\cnc\cncembroider\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1525818755 source:c:\users\user\desktop\dev\cnc\cncembroider\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+
